@@ -17,14 +17,14 @@ class CarLoanCalculator extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                SizedBox(
+                SizedBox( 
                   height: 20.h,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      "Personal Loan Amount :",
+                      "Car Loan Amount :",
                       style: TextStyle(
                         fontSize: 16.sp,
                         fontWeight: FontWeight.w500,
